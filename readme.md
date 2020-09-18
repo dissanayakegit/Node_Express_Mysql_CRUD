@@ -1,3 +1,12 @@
+npm install express --save
+npm install body-parser --save
+npm install mysql --save
+npm install --save-dev nodemon
+
+run the app
+npm run start or npm start
+
+
 API End Points
 
     GET /api/v1/employees: will give all employees stored in database
